@@ -1,0 +1,51 @@
+APPLIED SDLC & SOFTWARE TESTING
+
+V Model
+Agile Model
+S/w testing
+CI/CD
+
+Assessment -- MCQ based, Learning Report with Peer Reviewed 
+
+Based on topics, activities are assigned daily 
+
+
+Alpha 
+Beta
+Release Candidate (RC)
+
+Testing should be stopped as soon as requirements are met. 
+Defect - Deviation from the requirements
+
+If issue found by a tester, he has the authority of managing the testing priorities because he knows the impact.
+
+Clear requirements & Tech known -- V Model used
+Req are littile unknown & Tech also newer -- Agile Model used 
+
+##   ACTIVITY - 1 (Individual)
+Define  ---  Beverage Dispenser
+Research   ---   Aging and Costing
+Defining our project   ---   Own Features, enhancements
+SWOT analysis   ---   About features 
+Requirements   ---   HLR -- feature level , LLR -- how feature becomes functional like quality, qty, electricity, heating filament, grinding
+
+System Design 
+Draw UML diagrams 
+-- Structural , Behavioral ( Min 2 req at each level HLR, LLR )
+
+Test Plans 
+-- Integration level TP, Low level TP
+	Table of 5 columns Test ID, Descr, Expected i/p, Expected o/p, Actual o/p 
+	Trace every req from HLR to LLR to Test Plans ----  Traceability
+	
+Component Diagram - sw hw, Use case diagram, Flow chart -- user, maintenance, etc etc
+@ integration level test plan (comes in HLR) -- Amount of coffee and milk simultaneously, 
+@unit test plan -- what beverage we want, it should come 
+
+Req based testing, Scenario based, Boundary condition based. 
+
+###  Team Activity - 1
+
+1. Impact of defective products 
+2. Power of visual representation  -----  UML, SysML
+
