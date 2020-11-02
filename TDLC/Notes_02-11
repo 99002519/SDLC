@@ -1,0 +1,54 @@
+######################  TDLC  ######################
+
+TDD & TDLC aspects, diff
+
+General steps:
+	Opportunities --> Shortlist (stakeholders) --> BidWin --> projKickoff (extd core team)
+	
+TASKS :
+	 1. Go thru the contents on SDLC (Finish atleast 2 side deck) and ask ques on yammer
+	    Assessment --> tmoro EOD
+	    
+	 2. Team Act 1 : Understanding TDLC (What,why,where,when,How) --> Summary
+	    Team Act 2 : Understanding TDD (What,why,where,when,How) --> Summary
+	    Team Act 3 : Evolution of any mini project by TDLC & TDD
+-------------------------------------------------------------------------------------------------------------------------------------------------
+# SIDEDECK 1
+-------------------------------------------------------------------------------------------------------------------------------------------------
+# Verification vs Validation :
+	Ver - Checking the functionality of the system (Ex:L&T bottle 500ml, Plastic bottle 500ml - verified)
+	Val - Checking the functionality as per requirements/specififications of the customer (Ex:L&T bottle 500ml, L&T bottle 500ml - validated)
+
+# Error, Defect, Bug, Failure
+	* Error : S/m not behaving as per expectations
+	* Defect : It can be managable
+	* Bug : When we track - As long as it is identified 
+	* Failure : If it is not managable
+	* Debugging : Process of fixing the bug
+	
+# Setting up VSCode
+	Symbol viewer, Autocomplete, Git, Code quality
+
+# Debugging 
+	* Using printf statements
+	* Using IDEs - Breakpoints
+	* Congiure GDB in IDEs
+	* Auto doc - Doxygen
+
+Refactor - Structuring the way we want 
+QA & Testing - QA adds func, non func, standards, compliance
+
+# Root cause analysis - Toyota's 3 W's
+  Fishbone technique - Critical analysis 
+
+Comparing different testing levels 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+# SIDEDECK 2
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Agility - Ability to adapt to change ( how quick )
+Parasoft & LDRR - Tools for static analysis
+
+
+	
